@@ -47,6 +47,7 @@ O sistema permite cadastrar o nome de um aluno, inserir três notas, calcular a 
 5. Siga as instruções no terminal
 
 ## 📷 Exemplo de uso
+
 Digite o nome do aluno: Breno
 
 Digite a primeira nota: 7
